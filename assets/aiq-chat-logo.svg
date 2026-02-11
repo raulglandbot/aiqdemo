@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-label="AIQ logo">
+  <defs>
+    <linearGradient id="qGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6f95ff"/>
+      <stop offset="60%" stop-color="#4b77ff"/>
+      <stop offset="100%" stop-color="#3d66dd"/>
+    </linearGradient>
+  </defs>
+  <path d="M26 214 74 108c4-9 17-9 21 0l48 106h-19l-10-24H55l-10 24zm35-40h47L84 121z" fill="#162c5e"/>
+  <rect x="155" y="106" width="18" height="108" rx="9" fill="url(#qGrad)"/>
+  <circle cx="223" cy="161" r="48" fill="none" stroke="url(#qGrad)" stroke-width="18"/>
+  <rect x="217" y="206" width="62" height="18" rx="9" fill="url(#qGrad)"/>
+  <ellipse cx="205" cy="153" rx="13" ry="13" fill="#ffffff"/>
+  <ellipse cx="236" cy="153" rx="13" ry="13" fill="#ffffff"/>
+  <ellipse cx="211" cy="153" rx="7" ry="7" fill="#00153f"/>
+  <ellipse cx="242" cy="153" rx="7" ry="7" fill="#00153f"/>
+</svg>
